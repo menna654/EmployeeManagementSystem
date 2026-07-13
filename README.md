@@ -48,4 +48,4 @@ EmployeeManagementSystem.java
 
 ## About
 
-This project was developed as part of my Java Development Internship at Codveda Technologies to strengthen my understanding of Java fundamentals, object-oriented programming, and CRUD application development.
+This project was developed to strengthen my understanding of Java, Object-Oriented Programming (OOP), and CRUD operations.
